@@ -2,7 +2,12 @@
     --preto: #000000ff;
     --azul-escuro: #14213dff;
     --laranja: #fca311ff;
-    --branco: #e5e5e5ff;
+    --ciano: rgb(10, 227, 235);
     --texto: "Edu VIC WA NT Hand", cursive;
     --titulo: "Google Sans", sans-serif;
+    }
+
+    body{
+        background-color: var(--ciano);
+        font-family: var(--texto);
     }
