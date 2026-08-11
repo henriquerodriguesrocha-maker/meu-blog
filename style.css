@@ -11,3 +11,9 @@
         background-color: var(--ciano);
         font-family: var(--texto);
     }
+    header{
+        background-color: var(--azul-escuro);
+        text-align: center;
+        padding: 20px;
+        color: var(--laranja);
+    }
